@@ -1,0 +1,27 @@
+{
+  "name": "GH-900 Fundamentals Dev Container",
+  "image": "mcr.microsoft.com/devcontainers/python:3.8",
+  "features": {
+    "ghcr.io/devcontainers/features/github-cli:1": {},
+    "ghcr.io/devcontainers/features/powershell:1": {}
+  },
+  "postCreateCommand": "pip install -r Labs/CodeQL-Demo-App/requirements.txt",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "python.pythonPath": "/usr/local/bin/python",
+        "files.exclude": {
+          "**/__pycache__": true
+        }
+      },
+      "extensions": [
+        "ms-python.python",
+        "github.vscode-pull-request-github",
+        "ms-azuretools.vscode-docker",
+        "GitHub.vscode-codeql"
+      ]
+    }
+  },
+  "forwardPorts": [5000],
+  "remoteUser": "vscode"
+}
