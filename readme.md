@@ -1,4 +1,4 @@
-# GH-900 - GitHub Fundamentals Course - Kuljot Singh Bakshi - GitHub Repository
+# GH-900 - GitHub Fundamentals Course - Kuljot Singh Bakshi - GitHub Repository - modifications from dev branch
 
 ![course_thumbnail](./Assets/course_thumbnail_image.png)
 
