@@ -2,6 +2,8 @@
 
 ![course_thumbnail](./Assets/course_thumbnail_image.png)
 
+## Version 1.0.1
+
 ## 🚀 Getting Started
 
 ### Prerequisites
