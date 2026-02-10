@@ -2,7 +2,6 @@
 
 ![course_thumbnail](./Assets/course_thumbnail_image.png)
 
-
 ## 🚀 Getting Started
 
 ### Prerequisites
