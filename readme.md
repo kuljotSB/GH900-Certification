@@ -2,8 +2,6 @@
 
 ![course_thumbnail](./Assets/course_thumbnail_image.png)
 
-## Change from Feature Branch - PR Demo
-
 ## 🚀 Getting Started
 
 ### Prerequisites
