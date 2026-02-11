@@ -4,7 +4,7 @@ Binary Search Implementation in Python
 This module provides an efficient binary search algorithm implementation.
 Binary search is an efficient algorithm for finding an item in a sorted list.
 Time Complexity: O(log n)
-Space Complexity: O(1)
+Space Complexity: O(1) for iterative, O(log n) for recursive
 """
 
 
@@ -62,6 +62,9 @@ def binary_search_recursive(arr, target, left=None, right=None):
         >>> binary_search_recursive([1, 2, 3, 4, 5], 6)
         -1
     """
+    if not arr:
+        return -1
+    
     if left is None:
         left = 0
     if right is None:
