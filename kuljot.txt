@@ -1,1 +1,0 @@
-codeql demo for udemy course
