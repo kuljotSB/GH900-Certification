@@ -11,6 +11,7 @@ Before starting the labs, ensure you have:
 - A **GitHub account** ([sign up here](https://github.com/signup))
 - **Git** installed ([download here](https://git-scm.com/downloads))
 - VSCode installed ([download here](https://code.visualstudio.com/download))
+- GitHub CLI installed ([download here](https://cli.github.com/))
 - Basic command-line knowledge
 
 ## 📚 About This Repository
