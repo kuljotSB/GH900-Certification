@@ -1,4 +1,4 @@
-# GH-900 - GitHub Fundamentals Course- Shipra - Changes from dev branch version 2
+# GH-900 - GitHub Fundamentals Course- Shipra - Changes from dev branch version 2 - rebase from main
 
 ![course_thumbnail](./Assets/course_thumbnail_image.png)
 
