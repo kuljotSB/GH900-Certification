@@ -63,5 +63,11 @@ By completing this lab, you will be able to:
 3. Add a title and description for your Pull Request.
 4. Click on "Create pull request" to submit your changes for review.
 
+
+### Some Helpful Git Commands
+- `git status`: Check the status of your working directory and staging area.
+- `git log`: View the commit history.
+- `git diff`: See the changes made to files before committing.
+
 ### Conclusion
 Congratulations! You have successfully cloned a repository, made changes, committed them, and created your first Pull Request on GitHub.
