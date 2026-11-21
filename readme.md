@@ -1,4 +1,4 @@
-# GH-900 - GitHub Fundamentals Course - Neeraj Dange Training
+# GH-900 - GitHub Fundamentals Course - Neeraj Dange Training for certification
 
 ![course_thumbnail](./Assets/course_thumbnail_image.png)
 
