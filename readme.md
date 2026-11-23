@@ -1,4 +1,4 @@
-# GH-900 - GitHub Fundamentals Course - Neeraj Dange Training for certification - dev branch changes
+# GH-900 - GitHub Fundamentals Course - Neeraj Dange Training for certification - dev branch changes - forward merge dev changes
 
 ![course_thumbnail](./Assets/course_thumbnail_image.png)
 
