@@ -4,7 +4,7 @@
 
 
 ## 🚀 Getting Started
-
+v 1.0.1
 ### Prerequisites
 
 Before starting the labs, ensure you have:
